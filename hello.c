@@ -3,6 +3,6 @@
 int main(int arg, char* argv[]){
     printf("inited by SCM.\n");
     printf("develop branch created by SCM.\n");
-    //dev01修改了hello.c
+    printf("dev01 alter hello.\n");
 
 }
